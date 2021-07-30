@@ -1,0 +1,12 @@
+<resources>
+    <string name="Yahtzee">DiceRoller</string>
+    <string name="roll_label">Roll</string>
+    <string name="count_up">Count Up</string>
+    <string name="reset">reset</string>
+    <string name="clear">clear</string>
+    <string name="roll_4">ROLL 4</string>
+    <string name="roll_5">ROLL 5</string>
+    <string name="roll_3">ROLL 3</string>
+    <string name="roll_2">ROLL 2</string>
+    <string name="roll_1">ROLL 1</string>
+</resources>
